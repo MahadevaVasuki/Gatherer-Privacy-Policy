@@ -15,13 +15,13 @@ Your interaction data is stored locally on your device and is used solely for di
 Data Security:
 We are committed to ensuring that your data is secure. The data is stored using the browser's local storage, which is protected by the browser's inherent security mechanisms.
 
-Data Retention
+Data Retention:
 All data collected by the Gatherer extension is retained locally on your device until you choose to reset it through the extension's interface.
 
-Changes to This Privacy Policy
+Changes to This Privacy Policy:
 We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-Contact Us
+Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at aleksandarsevo19@gmail.com.
 
 Effective Date: 22.11.2024
