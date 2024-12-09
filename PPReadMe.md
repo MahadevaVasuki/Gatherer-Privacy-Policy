@@ -24,4 +24,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at aleksandarsevo19@gmail.com.
 
-Effective Date: 22.11.2024
+Effective Date: 09.12.2024
